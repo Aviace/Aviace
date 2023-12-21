@@ -10,3 +10,5 @@
 - 📫 How to reach me: chasemrx@gmail.com or Twitter: carbon_wreck
 
 [![Aviace's GitHub | Stats](https://stats.quine.sh/Aviace/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aviace)
+
+[![Aviace's GitHub | Languages Over Time](https://stats.quine.sh/Aviace/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aviace)
